@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Yves Manirambona GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelGel&hide=contribs,prs)
 
 <!--
 **ZelGel/ZelGel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
