@@ -8,7 +8,7 @@
     <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-<picture>
+<picture align="center">
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
