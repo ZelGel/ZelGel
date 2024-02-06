@@ -13,6 +13,6 @@
 ![Yves Manirambona GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true&theme=radical)
 
 # Contact:
- <img alt="Link" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+ <img alt="Link" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
 </div>
 
