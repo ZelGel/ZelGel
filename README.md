@@ -6,16 +6,5 @@
     <img alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true" alt="ZelGel's GitHub Stats" />
-</picture>
-
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
