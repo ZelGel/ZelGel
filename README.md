@@ -13,6 +13,8 @@
 ![Yves Manirambona GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelGel&show_icons=true&theme=radical)
 
 # Contact:
- <img alt="Link" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+<!-- Remplacez 'your-linkedin-url' par l'URL de votre profil LinkedIn -->
+<a href="https://www.linkedin.com/in/yves-manirambona-5965282b3/">
+    <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+</a>
 </div>
-
