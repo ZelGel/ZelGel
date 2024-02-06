@@ -15,6 +15,6 @@
 # Contact:
 <!-- Remplacez 'your-linkedin-url' par l'URL de votre profil LinkedIn -->
 <a href="https://www.linkedin.com/in/yves-manirambona-5965282b3/">
-    <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+    <img alt="LinkedIn" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
 </div>
